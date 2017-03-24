@@ -1,3 +1,1 @@
-#include<iostream>
-8
-9
+10
